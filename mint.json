@@ -1,24 +1,25 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "TicketTweaks Docs",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/logo.png",
+    "light": "/logo/logo.png"
   },
-  "favicon": "/favicon.svg",
+  "theme": "prism",
+  "favicon": "/favicon.png",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#ba9afc",
+    "light": "#ba9afc",
+    "dark": "#0c0d13",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#ba9afc",
+      "to": "#171827"
     }
   },
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "noxy@tickettweaks.xyz"
     }
   ],
   "topbarCtaButton": {
@@ -33,14 +34,14 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
+      "name": "Website",
+      "icon": "computer",
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "Discord",
+      "icon": "discord",
+      "url": "https://dsc.gg/tickettweaks"
     },
     {
       "name": "Blog",
